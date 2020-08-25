@@ -15,7 +15,7 @@ title                    : "AAAI-21 KDF"
 title_separator          : "-"
 subtitle                 : 
 name                     : "KDF" # &name is a YAML anchor which can be *referenced later
-description              : &description "Home for AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+description              : "Home for AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 url                      : https://aaai-kdf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/kdf2021" # the subpath of your site, e.g. "/blog"
 repository               : "aaai-kdf/kdf2021"
