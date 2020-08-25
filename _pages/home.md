@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>February 2-9th, 2021, A Virtual Conference<br/>"
+excerpt: "<br/>February 2-9th, 2021, A Virtual Workshop<br/>"
 ---
 
 <h2>Introduction</h2>
@@ -29,10 +29,8 @@ This one-day workshop will focus on research into the use of AI techniques to ex
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Wednesday</s></td>
-            <td>November 15th, 2020</s>
-            </td>
-            
+            <td>Wednesday</td>
+            <td>November 15th, 2020</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
