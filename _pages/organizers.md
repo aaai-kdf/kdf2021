@@ -7,7 +7,8 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>KDF Organizing Committee<br/>"
 ---
-<h3>Xiaomo Liu - Director of Data Science, S&P Global Ratings</h3>
+<h3>Xiaomo Liu</h3>
+<h4>Director of Data Science, S&P Global Ratings<h4>
 Dr. Liu focuses on using machine learning and natural language processing to improve credit rating practices. Prior to S&P, Xiaomo was a senior research scientist at Thomson Reuters, where he invented AI algorithms and systems to help news and legal professionals to automate their workflow. His work has been reported by numerous news media and won industry awards. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents. Xiaomo has serviced as PCs in various conferences like KDD, IJCAI, CIKM, IWSC etc. He also organized workshops in conferences.
 
 <h3>Manuela M. Veloso</h3>
