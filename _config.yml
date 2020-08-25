@@ -20,7 +20,7 @@ title                    : "AAAI-21 KDF" #"AAAI-21 Workshop on Knowledge Discove
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KDF"
-description              : "Home for AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+description              : "Home for AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 url                      : "https://aaai-kdf.github.io/kdf2021/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/kdf2021" # the subpath of your site, e.g. "/blog"
 repository               : "aaai-kdf/kdf2021"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
