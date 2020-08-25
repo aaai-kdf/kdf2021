@@ -1,6 +1,7 @@
 ---
 title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
+hidden: true
 permalink: /
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
