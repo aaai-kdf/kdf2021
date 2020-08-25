@@ -8,6 +8,5 @@ header:
 excerpt: "<br/>Schedule<br/>"
 ---
 
-<center>
+
 <h2>TBD</h2>
-</center>
