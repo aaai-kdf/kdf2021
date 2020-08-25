@@ -49,7 +49,7 @@ This one-day workshop will focus on research into the use of AI techniques to ex
             <td>January 10th, 2021</td>
         </tr>        
         <tr>
-            <td><s>Workshop</td>
+            <td>Workshop</td>
             <td>TBD</td>
             <td>TBD</td>
         </tr>   
