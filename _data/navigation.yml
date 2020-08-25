@@ -2,16 +2,16 @@
 main:
   - title: "Home"
     url: /
-  - title: "Schedule"
-    url: schedule 
-  - title: "Accepted Papers"
-    url: accepted_papers
+  - title: "Call for Papers"
+    url: call_for_papers
+  # - title: "Accepted Papers"
+  #   url: accepted_papers
   - title: "Organization"
     url: organizers
   - title: "Program Committee"
     url: program_committee
-  - title: "Call for Papers"
-    url: call_for_papers
+  - title: "Schedule"
+    url: schedule 
 
   # - title: "Sitemap"
   #   url: /sitemap/
