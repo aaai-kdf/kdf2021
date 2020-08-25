@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /kdf2021/home
+    url: home
   - title: "Schedule"
     url: schedule 
   - title: "Accepted Papers"
