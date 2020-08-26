@@ -57,4 +57,4 @@ This one-day workshop will focus on research into the use of AI techniques to ex
 </center>
 
 <h2 id='contact'>Contact Information</h2>
-We look forward to seeing you in KDF 2021! For general inquiries about KDF, please write to <address>inquiry.kdf2021@easychair.org</address>.
+We look forward to seeing you in KDF 2021! For general inquiries about KDF, please write to <kbd>inquiry.kdf2021@easychair.org</kbd>.
