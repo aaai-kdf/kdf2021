@@ -26,8 +26,7 @@ We invite submissions of original contributions on methods, applications, and sy
 - AI systems for relationship extraction and risk assessment from legal documents;
 - Accounting for Black-Swan events in knowledge discovery methods
 
-
-Furthermore, based on the reflection and feedback from our AAAI-20 KDF workshop, this workshop is particularly interested in financial domain-specific representation learning, open financial datasets and benchmarking, and transfer learning application on financial data.
+Based on the reflection and feedback from our AAAI-20 KDF workshop, this workshop is particularly interested in financial domain-specific representation learning, open financial datasets and benchmarking, and transfer learning application on financial data.
 
 We also encourage submissions of studies or applications pertinent to finance using other types of unstructured data such as financial transactions, sensors, mobile devices, satellites, social media.
 
