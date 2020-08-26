@@ -48,11 +48,11 @@ This one-day workshop will focus on research into the use of AI techniques to ex
             <td>TBD</td>
         </tr>        
         <tr>
-            <td><s>Workshop</td>
+            <td>Workshop</td>
             <td>Friday</td>
             <td>TBD</td>
         </tr>   
-</tbody>
+    </tbody>
 </table>
 </center>
 
