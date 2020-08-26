@@ -13,8 +13,7 @@ excerpt: "<br/>February 2-9th, 2021, A Virtual Workshop<br/>"
 
 Knowledge discovery from various data sources has gained the attention of many practitioners over the past decades. Its capabilities have expanded from processing structured data (e.g. DB transactions) to unstructured data (e.g. text, images, and videos). In spite of substantial research focusing on discovery from news, web, and social media data, its application to data in professional settings such as legal documents, financial filings, and government reports, still present huge challenges. Possible reasons are that the precision and recall requirements for extracted knowledge to be used in business processes are fastidious, and signals gathered from these knowledge discovery tasks are usually very sparse and thus the generation of supervision signals is quite challenging.
  
-In the financial services industry, in particular, a large amount of financial analysts’ work requires knowledge discovery and extraction from different data sources, such as SEC filings, loan documents, industry reports, etc., before the analysts can conduct any analysis. This manual extraction process is usually inefficient, error-prone, and inconsistent. It is one of the key bottlenecks for financial services companies in improving their operating productivity. These challenges and issues call for robust artificial intelligence (AI) algorithms and systems to help. The automated processing of unstructured data to discover knowledge from complex financial documents requires a series of techniques such as linguistic processing, semantic analysis, and knowledge representation and reasoning. The design and implementation of these AI techniques to meet financial business operations requires a joint effort between academia researchers and industry practitioners. Furthermore, based on the reflection and feedback from our 2020 AAAI KDF workshop, this workshop is particularly interested in financial domain-specific representation learning, open financial datasets and benchmarking, and transfer learning application on financial data.
-
+In the financial services industry, in particular, a large amount of financial analysts’ work requires knowledge discovery and extraction from different data sources, such as SEC filings, loan documents, industry reports, etc., before the analysts can conduct any analysis. This manual extraction process is usually inefficient, error-prone, and inconsistent. It is one of the key bottlenecks for financial services companies in improving their operating productivity. These challenges and issues call for robust artificial intelligence (AI) algorithms and systems to help. The automated processing of unstructured data to discover knowledge from complex financial documents requires a series of techniques such as linguistic processing, semantic analysis, and knowledge representation and reasoning. The design and implementation of these AI techniques to meet financial business operations requires a joint effort between academia researchers and industry practitioners. 
 
 This one-day workshop will focus on research into the use of AI techniques to extract knowledge from unstructured data in financial services. The program of the workshop will include invited talks, spotlight paper presentations, lightning poster presentations, and an industrial panel discussion to showcase research opportunities, novel solutions and systems, success stories, and future directions. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work.
 
@@ -25,32 +24,32 @@ This one-day workshop will focus on research into the use of AI techniques to ex
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
             <td style="width: 30%;">Friday</td>
-            <td>November 8th, 2020</td>
+            <td>TBD</td>
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Wednesday</td>
-            <td>November 15th, 2020</td>
+            <td>Friday</td>
+            <td>TBD</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
             <td>Friday</td>
-            <td>December 4th, 2020<br>
+            <td>TBD<br>
             </td>
         </tr>   
         <tr>
-            <td>AAAI-20 Early Registration Deadline</td>
+            <td>AAAI-21 Early Registration Deadline</td>
             <td>Friday</td>
-            <td>December 13th, 2020</td>
-        </tr>        
-        <tr>
-            <td>AAAI-20 Late Registration Deadline</td>
-            <td>Friday</td>
-            <td>January 10th, 2021</td>
-        </tr>        
-        <tr>
-            <td>Workshop</td>
             <td>TBD</td>
+        </tr>        
+        <tr>
+            <td>AAAI-21 Late Registration Deadline</td>
+            <td>Friday</td>
+            <td>TBD</td>
+        </tr>        
+        <tr>
+            <td><s>Workshop</td>
+            <td>Friday</td>
             <td>TBD</td>
         </tr>   
 </tbody>
@@ -58,4 +57,4 @@ This one-day workshop will focus on research into the use of AI techniques to ex
 </center>
 
 <h2 id='contact'>Contact Information</h2>
-KDF 20 has closed. We look forward to seeing you in KDF 21! For general inquiries about KDF, please write to inquiry.kdf@gmail.com.
+We look forward to seeing you in KDF 2021! For general inquiries about KDF, please write to inquiry.kdf@gmail.com.
