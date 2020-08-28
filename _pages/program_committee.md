@@ -9,10 +9,11 @@ excerpt: "<br/>Program Committee<br/>"
 ---
 
 Chong Wang (S&P Global, USA)<br>
-Rui Dai (University of Pennsylvania, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
 Qian Yang (Duke University, USA)<br>
+Rui Dai (University of Pennsylvania, USA)<br>
+Sumanta Basu (Cornell University)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
