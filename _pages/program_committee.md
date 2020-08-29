@@ -10,7 +10,7 @@ excerpt: "<br/>Program Committee<br/>"
 
 Chong Wang (S&P Global, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
-Mohammad M. Ghassemi (Michigan State University, USA)
+Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
 Qian Yang (Duke University, USA)<br>
 Rui Dai (University of Pennsylvania, USA)<br>
