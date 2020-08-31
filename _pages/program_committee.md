@@ -18,4 +18,5 @@ Rui Dai (University of Pennsylvania, USA)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
+Xin Dong (Rutgers University, USA)<br> 
 Zhiqiang Ma (S&P Global, USA)<br>
