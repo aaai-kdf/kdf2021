@@ -10,11 +10,12 @@ excerpt: "<br/>Program Committee<br/>"
 
 Chong Wang (S&P Global, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
+Luciano Del Corro (Goldman Sachs, Germany)
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
 Qian Yang (Duke University, USA)<br>
 Rui Dai (University of Pennsylvania, USA)<br>
-Sumanta Basu (Cornell University)<br>
+Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
