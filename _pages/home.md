@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>February 2-9th, 2021, A Virtual Workshop<br/>"
+excerpt: "<br/>February 8-9th, 2021, A Virtual Workshop<br/>"
 ---
 
 <h2>Introduction</h2>
@@ -23,34 +23,34 @@ This one-day workshop will focus on research into the use of AI techniques to ex
     <tbody>
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
-            <td style="width: 30%;">Friday</td>
-            <td>TBD</td>
+            <td style="width: 30%;">Monday</td>
+            <td>Nov 2, 2020</td>
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Friday</td>
-            <td>TBD</td>
+            <td>Monday</td>
+            <td>Nov 9, 2020</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>Friday</td>
-            <td>TBD<br>
+            <td>Monday</td>
+            <td>Nov 30, 2020<br>
             </td>
         </tr>   
         <tr>
             <td>AAAI-21 Early Registration Deadline</td>
-            <td>Friday</td>
+            <td>TBD</td>
             <td>TBD</td>
         </tr>        
         <tr>
             <td>AAAI-21 Late Registration Deadline</td>
-            <td>Friday</td>
+            <td>TBD</td>
             <td>TBD</td>
         </tr>        
         <tr>
             <td>Workshop</td>
-            <td>Friday</td>
-            <td>TBD</td>
+            <td>Monday, Tuesday</td>
+            <td>Feb 8-9, 2021</td>
         </tr>   
     </tbody>
 </table>
