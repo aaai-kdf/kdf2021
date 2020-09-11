@@ -7,7 +7,7 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
-
+Anh Truong (Capital One, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Kornelia Papp (iptiQ by Swiss Re, Switzerland)<br>
@@ -15,6 +15,7 @@ Luciano Del Corro (Goldman Sachs, Germany)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
 Qian Yang (Duke University, USA)<br>
+Robert Tillman (J.P. Morgan, USA)<br>
 Rui Dai (University of Pennsylvania, USA)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
