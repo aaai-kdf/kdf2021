@@ -11,6 +11,7 @@ Anh Truong (Capital One, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Kornelia Papp (iptiQ by Swiss Re, Switzerland)<br>
+Joshua Lockhart (JP Morgan, UK)<br>
 Luciano Del Corro (Goldman Sachs, Germany)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
