@@ -10,6 +10,7 @@ excerpt: "<br/>Program Committee<br/>"
 Anh Truong (Capital One, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
+Hongda Shen (University of Alabama in Huntsville)<br>
 Joshua Lockhart (JP Morgan, UK)<br>
 Kornelia Papp (iptiQ by Swiss Re, Switzerland)<br>
 Luciano Del Corro (Goldman Sachs, Germany)<br>
