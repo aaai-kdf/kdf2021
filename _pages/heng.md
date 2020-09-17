@@ -5,7 +5,7 @@ permalink: /heng
 classes: wide
 sidebar:
  - title    : "Heng Ji"
-   image    : /assets/images/HengJi.jpg
+   image    : /assets/images/HengJi.JPG
    text     : "Professor - Computer Science Department, University of Illinois at Urbana-Champaign"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
