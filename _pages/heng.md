@@ -1,7 +1,7 @@
 ---
 title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
-permalink: /heng_ji
+permalink: /heng
 classes: wide
 sidebar:
  - title    : "Heng Ji"
