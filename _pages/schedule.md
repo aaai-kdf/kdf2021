@@ -10,7 +10,7 @@ excerpt: "<br/>Schedule<br/>"
 
 
 <h2>Keynote Speakers</h2>
-[**Heng Ji**, Professor, University of Illinois at Urbana-Champaign](/kdf2021/heng_ji.md)
+[**Heng Ji**, Professor, University of Illinois at Urbana-Champaign](/kdf2021/heng_ji)
 
 <h2>Presentation Schedule</h2>
 TBD
