@@ -9,4 +9,9 @@ excerpt: "<br/>Schedule<br/>"
 ---
 
 
-<h2>TBD</h2>
+<h2>Keynote Speakers</h2>
+Heng Ji, University of Illinois at Urbana-Champaign
+
+<h2>Presentations</h2>
+TBD
+
