@@ -8,6 +8,7 @@ header:
 excerpt: "<br/>Program Committee<br/>"
 ---
 Anh Truong (Capital One, USA)<br>
+Anthony Liu (Kensho, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Dezhao Song (Thomson Reuters, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
