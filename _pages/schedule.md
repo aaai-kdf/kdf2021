@@ -10,8 +10,8 @@ excerpt: "<br/>Schedule<br/>"
 
 
 <h2>Keynote Speakers</h2>
-[**Heng Ji**, Professor, University of Illinois at Urbana-Champaign](/kdf2021/heng)<br>
-[**Hannaneh Hajishirzi**, Assistant Professor, University of Washington](/kdf2021/hannaneh)
+[**Heng Ji**](/kdf2021/heng), Professor, University of Illinois at Urbana-Champaign<br>
+[**Hannaneh Hajishirzi**](/kdf2021/hannaneh), Assistant Professor, University of Washington
 <h2>Presentation Schedule</h2>
 TBD
 
