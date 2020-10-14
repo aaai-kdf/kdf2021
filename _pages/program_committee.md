@@ -13,7 +13,7 @@ Chen Li (Moody's, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Dezhao Song (Thomson Reuters, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
-Grace Bang (Bloomberg)<br>
+Grace Bang (Bloomberg, USA)<br>
 Hongda Shen (University of Alabama in Huntsville, USA)<br>
 Joshua Lockhart (JP Morgan, UK)<br>
 Kornelia Papp (iptiQ by Swiss Re, Switzerland)<br>
@@ -28,3 +28,4 @@ Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Xin Dong (Rutgers University, USA)<br> 
 Zhiqiang Ma (S&P Global, USA)<br>
+Zehra Sura (Bloomberg, USA)
