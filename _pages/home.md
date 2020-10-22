@@ -17,7 +17,7 @@ In the financial services industry, in particular, a large amount of financial a
 
 This one-day workshop will focus on research into the use of AI techniques to extract knowledge from unstructured data in financial services. The program of the workshop will include invited talks, spotlight paper presentations, lightning poster presentations, and an industrial panel discussion to showcase research opportunities, novel solutions and systems, success stories, and future directions. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work. The topics and submission requirements can be found in [call for papers](/kdf2021/call_for_papers).
 
-<h2 id="dates">Important Dates (GMT)</h2>
+<h2 id="dates">Important Dates (Anywhere on Earth)</h2>
 <center>
 <table style="width: 90%">
     <tbody>
