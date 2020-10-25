@@ -11,7 +11,8 @@ excerpt: "<br/>Schedule<br/>"
 
 <h2>Keynote Speakers</h2>
 [**Heng Ji**](/kdf2021/heng), Professor, University of Illinois at Urbana-Champaign<br>
-[**Hannaneh Hajishirzi**](/kdf2021/hannaneh), Assistant Professor, University of Washington
+[**Hannaneh Hajishirzi**](/kdf2021/hannaneh), Assistant Professor, University of Washington<br>
+[**Gideon Mann**](/kdf2021/gideon), Head of Data Science, Bloomberg<br>
 <h2>Presentation Schedule</h2>
 TBD
 
