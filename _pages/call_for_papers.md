@@ -12,16 +12,16 @@ excerpt: "<br/>Call for Papers<br/>"
 
 We invite submissions of original contributions on methods, applications, and systems on artificial intelligence, machine learning, and data analytics, with a focus on knowledge discovery and extraction in the financial services domain. The scope of the workshop includes, but is not limited to, the following areas:
 
-- Representation learning, distributed representations learning and encoding in natural language processing for financial documents;
+- Representation learning, distributed representations and encoding in natural language processing for financial documents;
 - Synthetic or genuine financial datasets and benchmarking baseline models;
 - Transfer learning application on financial data, knowledge distillation as a method for compression of pre-trained models or adaptation to financial datasets;
 - Search and question answering systems designed for financial corpora;
 - Named-entity disambiguation, recognition, relationship discovery, ontology learning and extraction in financial documents;
 - Knowledge alignment and integration from heterogeneous data;
 - Using multi-modal data in knowledge discovery for financial applications
-- AI assisted data tagging and labeling;
+- AI-assisted data tagging and labeling;
 - Data acquisition, augmentation, feature engineering, and analysis for investment and risk management;
-- Automatic data extraction from financial fillings and quality verification; 
+- Automatic data extraction from financial filings and quality verification; 
 - Event discovery from alternative data and impact on organization equity price;
 - AI systems for relationship extraction and risk assessment from legal documents;
 - Accounting for Black-Swan events in knowledge discovery methods
