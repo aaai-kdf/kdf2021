@@ -28,13 +28,16 @@ This one-day virtual workshop will focus on research into the use of AI techniqu
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Monday</td>
-            <td>Nov 9, 2020</td>
+            <td>Friday</td>
+            <td><s>Nov 9, 2020</s> <br>
+                Nov 13, 2020
+            </td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>Monday</td>
-            <td>Nov 30, 2020<br>
+            <td>Friday</td>
+            <td><s>Nov 30, 2020</s><br>
+                    Dec 4, 2020
             </td>
         </tr>   
         <tr>
