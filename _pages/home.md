@@ -30,7 +30,7 @@ This one-day virtual workshop will focus on research into the use of AI techniqu
             <td>Paper Submission Deadline (Extended)</td>
             <td>Friday</td>
             <td><s>Nov 9, 2020</s> <br>
-                Nov 13, 2020
+                <s>Nov 13, 2020</s>
             </td>
         </tr>
         <tr>
