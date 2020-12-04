@@ -13,7 +13,7 @@ excerpt: "<br/>Accepted Papers<br/>"
 <table>
 
 <tbody>
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[Explainable Deep Behavioral Sequence Clustering for Transaction Fraud Detection](/assets/pdfs/tbd.pdf)<br>
             Wei Min, Weiming Liang, Hang Yin, Zhurong Wang, Alok Lal and Mei Li
         </td>
@@ -23,7 +23,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         Zheng Nie, Jingjing Feng, Steve Pomerville and Azadeh Nematzadeh
         </td>
     </tr>   
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[Data Augmentation Methods for Reject Inference in Credit Risk Models](/assets/pdfs/tbd.pdf)<br>
         Jingxian Liao, Wei Wang, Jason Xue and Anthony Lei
         </td>
@@ -33,7 +33,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         Tianxin Wei, Yuning You and Tianlong Chen
         </td>
     </tr>         
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[Building a Credit Risk Model using Transfer Learning and Domain Adaptation](/assets/pdfs/tbd.pdf)<br>
         Hendra Suryanto, Charles Guan, Ada Guan, Pengqian Li, Paul Compton, Michael Bain and Ghassan Beydoun
         </td>
@@ -43,7 +43,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         Stephen Choi, Xinyue Cui and Jingran Zhao
         </td>
     </tr>  
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks](/assets/pdfs/tbd.pdf)<br>
         Marco Schreyer, Christian Schulze and Damian Borth
         </td>
@@ -53,7 +53,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         Anh Truong, Austin Walters and Jeremy Goodsitt
         </td>
     </tr>
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[Knowledge discovery with Deep RL for selecting financial hedges](/assets/pdfs/tbd.pdf)<br>
         Eric Benhamou, David Saltiel, Sandrine Ungari, Abhishek Mukhopadhyay, Jamal Atif and Rida Laraki
         </td>
@@ -63,7 +63,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         Jan-Peter Kucklick and Oliver Müller
         </td>
     </tr>
-    <tr bgcolor="#f7f1df">
+    <tr bgcolor="#66d9ff">
         <td markdown="span">[PayVAE: A Generative Model for Financial Transactions](/assets/pdfs/tbd.pdf)<br>
         Niccolo Dalmasso, Robert Tillman, Prashant Reddy and Manuela Veloso
         </td>
