@@ -19,7 +19,7 @@ excerpt: "<br/>Accepted Papers<br/>"
         </td>
     </tr>
     <tr>
-        <td markdown="span">[Corporate cyber-security event detection platform](/assets/pdfs/tbd.pdf)<br>
+        <td markdown="span">[Corporate Cyber-security Event Detection Platform](/assets/pdfs/tbd.pdf)<br>
         Zheng Nie, Jingjing Feng, Steve Pomerville and Azadeh Nematzadeh
         </td>
     </tr>   
