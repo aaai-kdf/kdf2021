@@ -29,7 +29,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
             <td style="width: 30%;">Monday</td>
-            <td>Nov 2, 2020</td>
+            <td><s>Nov 2, 2020</s></td>
         </tr>
         <tr>
             <td>Paper Submission Deadline (Extended)</td>
@@ -42,11 +42,11 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
             <td>Notification of Acceptance</td>
             <td>Friday</td>
             <td><s>Nov 30, 2020</s><br>
-                    Dec 4, 2020
+                <s>  Dec 4, 2020</s>
             </td>
         </tr>   
         <tr>
-            <td>[AAAI-21 Early Registration Deadline](https://aaai.org/Conferences/AAAI-21/registration/)</td>
+            <td>AAAI-21 Early Registration Deadline</td>
             <td>Friday</td>
             <td>Jan 15, 2021</td>
         </tr>             
