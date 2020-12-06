@@ -52,7 +52,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td>Monday, Tuesday</td>
+            <td>Tuesday</td>
             <td>Feb 9, 2021</td>
         </tr>   
     </tbody>
