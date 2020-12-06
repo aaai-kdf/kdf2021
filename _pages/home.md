@@ -42,7 +42,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
             <td>Notification of Acceptance</td>
             <td>Friday</td>
             <td><s>Nov 30, 2020</s><br>
-                <s>  Dec 4, 2020</s>
+                <s>Dec 4, 2020</s>
             </td>
         </tr>   
         <tr>
