@@ -13,6 +13,7 @@ excerpt: "<br/>Schedule<br/>"
 [**Heng Ji**](/kdf2021/heng), Professor, University of Illinois at Urbana-Champaign<br>
 [**Hannaneh Hajishirzi**](/kdf2021/hannaneh), Assistant Professor, University of Washington<br>
 [**Gideon Mann**](/kdf2021/gideon), Head of Data Science, Bloomberg<br>
+[**Johannes Hoffart**](/kdf2021/hoffart), Senior Research Scientist, Goldman Sachs<br>
 <h2>Presentation Schedule</h2>
 TBD
 
