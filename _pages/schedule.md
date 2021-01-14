@@ -26,7 +26,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>
 </thead>
 <tbody>
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">8:50am-9:00am EST</td>
         <td markdown="span">Opening remarks</td>
         <td markdown="span">&nbsp;</td>
@@ -46,7 +46,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks</td>
         <td markdown="span">Marco Schreyer<br/>()</td>
     </tr> 
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">9:45am-10:30am EST</td>
         <td markdown="span">Invited Speaker</td>
         <td markdown="span">[Johannes Hoffart](/kdf2021/hoffart)<br/>(Senior Research Scientist, Goldman Sachs)</td>
@@ -56,12 +56,12 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">Coffee Break</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">11:00am-11:45am EST</td>
         <td markdown="span">Invited Speaker</td>
-        <td markdown="span">[**Heng Ji**](/kdf2021/heng)<br/>(Professor, University of Illinois at Urbana-Champaign)</td>
+        <td markdown="span">[Heng Ji](/kdf2021/heng)<br/>(Professor, University of Illinois at Urbana-Champaign)</td>
     </tr> 
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">11:45am-12:00pm EST</td>
         <td markdown="span">Comparison of Multi-View Learning Strategies for Satellite Image-Based Real Estate Appraisal</td>
         <td markdown="span">Jan-Peter Kucklick<br/>()</td>
@@ -81,10 +81,10 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">Lunch Break</td>
         <td markdown="span">&nbsp;</td>
     </tr>  
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">1:30pm-2:15pm EST</td>
         <td markdown="span">Invited Speaker</td>
-        <td markdown="span">[**Gideon Mann**](/kdf2021/gideon)<br/>(Head of Data Science, Bloomberg)</td>
+        <td markdown="span">[Gideon Mann](/kdf2021/gideon)<br/>(Head of Data Science, Bloomberg)</td>
     </tr>  
     <tr>
         <td markdown="span">2:15pm-2:30pm EST</td>
@@ -106,10 +106,10 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">Coffee Break</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">3:30pm-4:15pm EST</td>
         <td markdown="span">Invited Speaker</td>
-        <td markdown="span">[**Hannaneh Hajishirzi**](/kdf2021/hannaneh)<br/>(Assistant Professor, University of Washington)</td>
+        <td markdown="span">[Hannaneh Hajishirzi](/kdf2021/hannaneh)<br/>(Assistant Professor, University of Washington)</td>
     </tr>
     <tr>
         <td markdown="span">4:15pm-4:30pm EST</td>
@@ -121,7 +121,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">Building a Credit Risk Model using Transfer Learning and Domain Adaptation</td>
         <td markdown="span">Hendra Suryanto<br/>()</td>
     </tr>  
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">4:45:pm-5:00pm EST</td>
         <td markdown="span">Closing Remarks</td>
         <td markdown="span">&nbsp;</td>
