@@ -48,7 +48,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">9:45am-10:30am</td>
-        <td markdown="span">Invited Speaker</td>
+        <td markdown="span">Keynote</td>
         <td markdown="span">[Johannes Hoffart](/kdf2021/hoffart)<br/>(Senior Research Scientist, Goldman Sachs)</td>
     </tr> 
     <tr bgcolor="#f7f1df">
@@ -58,7 +58,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">11:00am-11:45am</td>
-        <td markdown="span">Invited Speaker</td>
+        <td markdown="span">Keynote</td>
         <td markdown="span">[Heng Ji](/kdf2021/heng)<br/>(Professor, University of Illinois at Urbana-Champaign)</td>
     </tr> 
     <tr>
@@ -83,7 +83,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td markdown="span">1:30pm-2:15pm</td>
-        <td markdown="span">Invited Speaker</td>
+        <td markdown="span">Keynote</td>
         <td markdown="span">[Gideon Mann](/kdf2021/gideon)<br/>(Head of Data Science, Bloomberg)</td>
     </tr>  
     <tr>
@@ -108,7 +108,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">3:30pm-4:15pm</td>
-        <td markdown="span">Invited Speaker</td>
+        <td markdown="span">Keynote</td>
         <td markdown="span">[Hannaneh Hajishirzi](/kdf2021/hannaneh)<br/>(Assistant Professor, University of Washington)</td>
     </tr>
     <tr>
