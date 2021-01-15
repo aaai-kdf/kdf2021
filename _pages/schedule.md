@@ -15,7 +15,7 @@ excerpt: "<br/>Schedule<br/>"
 [**Gideon Mann**](/kdf2021/gideon), Head of Data Science, Bloomberg<br>
 [**Johannes Hoffart**](/kdf2021/hoffart), Senior Research Scientist, Goldman Sachs<br>
 <h2>Presentation Schedule</h2>
-*All timestamps are in Eastern Standard Time (EST).*
+*All timestamps reflect Eastern Standard Time (EST).*
 <center>
 <table>
 	<colgroup>
