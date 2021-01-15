@@ -63,7 +63,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">11:00am-11:45am</td>
-        <td markdown="span">Keynote</td>
+        <td markdown="span">Keynote: Can we predict the future? Schema-guided complex event extraction and prediction.</td>
         <td markdown="span">[Heng Ji](/kdf2021/heng)<br/>(Professor, University of Illinois at Urbana-Champaign)</td>
     </tr> 
     <tr>
