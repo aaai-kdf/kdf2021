@@ -18,6 +18,11 @@ excerpt: "<br/>Schedule<br/>"
 *All timestamps are in Eastern Standard Time (EST).*
 <center>
 <table>
+	<colgroup>
+    	<col width="20%">
+    	<col width="60%">
+    	<col width="20%">
+	</colgroup>
 <thead>
 	<tr bgcolor="#f7f1df">
         <th markdown="span">Time</th>
