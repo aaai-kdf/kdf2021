@@ -12,9 +12,9 @@ excerpt: "<br/>Accepted Papers<br/>"
 <center>
 <table>
 
-<tbody>
+<tbodyn>
     <tr bgcolor="#66d9ff">
-        <td markdown="span">[Explainable Deep Behavioral Sequence Clustering for Transaction Fraud Detection](/assets/pdfs/tbd.pdf)<br>
+        <td markdown="span">[Explainable Deep Behavioral Sequence Clustering for Transaction Fraud Detection](/assets/pdfs/KDF_21_paper_1.pdf)<br>
             Wei Min, Weiming Liang, Hang Yin, Zhurong Wang, Alok Lal and Mei Li
         </td>
     </tr>
