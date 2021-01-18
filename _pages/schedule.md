@@ -53,7 +53,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">9:45am-10:30am</td>
-        <td markdown="span">Keynote</td>
+        <td markdown="span">Keynote: Rich text, lean knowledge bases: Knowledge extraction from financial documents</td>
         <td markdown="span">[Johannes Hoffart](/kdf2021/hoffart)<br/>(Senior Research Scientist, Goldman Sachs)</td>
     </tr> 
     <tr bgcolor="#f7f1df">
