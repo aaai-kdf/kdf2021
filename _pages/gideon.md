@@ -21,6 +21,6 @@ Mann graduated Brown University in 1999 and received a Ph.D. from The Johns Hopk
 
 
 
-<h2>Information in Context: Financial Conversations and News Flows</h2>
+<h2>[Keynote: Information in Context: Financial Conversations and News Flows](#keynote)</h2>
 
 Financial information is the lifeblood of financial decision-making, and in the case of textual information requires significant work to uncover. At Bloomberg, we are applying machine learning techniques to extract information automatically from recovered sources in our effort to make sense of the massive volume of text available on the Bloomberg Terminal every day. Part of our current frontier of work is not only extracting facts from individual sentences, but beginning to understand the larger context of streams of text. The first part of the talk focuses on conversations, where the structure of the conversation itself can be used to glean insight. The second part of the talk deals with less structured news flows, where summarization and salience can aid understanding of large news flows. Together, these two problems illustrate how deep understanding can lead to better products.

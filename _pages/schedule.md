@@ -88,7 +88,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td markdown="span">1:30pm-2:15pm</td>
-        <td markdown="span">Keynote: Information in Context: Financial Conversations and News Flows</td>
+        <td markdown="span">[Keynote: Information in Context: Financial Conversations and News Flows](/kdf2021/gideon#keynote)</td>
         <td markdown="span">[Gideon Mann](/kdf2021/gideon)<br/>(Head of Data Science, Bloomberg)</td>
     </tr>  
     <tr>
