@@ -99,7 +99,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">2:30pm-2:45pm</td>
         <td markdown="span">[Data Augmentation Methods for Reject Inference in Credit Risk Models](assets/pdfs/KDF_21_paper_4.pdf)</td>
-        <td markdown="span">Jingxian Liao<br/>(Intuit AI)</td>
+        <td markdown="span">Jingxian Liao<br/>(Intuit AI)</td> 
     </tr> 
     <tr>
         <td markdown="span">2:45pm-3:00pm</td>
