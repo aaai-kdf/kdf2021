@@ -53,7 +53,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">9:45am-10:30am</td>
-        <td markdown="span">Keynote: Rich text, lean knowledge bases: Knowledge extraction from financial documents</td>
+        <td markdown="span">[Keynote: Rich text, lean knowledge bases: Knowledge extraction from financial documents](/kdf2021/hoffart#keynote)</td>
         <td markdown="span">[Johannes Hoffart](/kdf2021/hoffart)<br/>(Senior Research Scientist, Goldman Sachs)</td>
     </tr> 
     <tr bgcolor="#f7f1df">
@@ -63,7 +63,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">11:00am-11:45am</td>
-        <td markdown="span">Keynote: Can we predict the future? Schema-guided complex event extraction and prediction.</td>
+        <td markdown="span">[Keynote: Can we predict the future? Schema-guided complex event extraction and prediction](/kdf2021/heng#keynote)</td>
         <td markdown="span">[Heng Ji](/kdf2021/heng)<br/>(Professor, University of Illinois at Urbana-Champaign)</td>
     </tr> 
     <tr>

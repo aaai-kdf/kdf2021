@@ -18,6 +18,6 @@ After his PhD and before joining Goldman Sachs R&D, Johannes Hoffart co-founded 
 
 
 
-<h2>Keynote: Rich Text, Lean Knowledge Bases: Knowledge Extraction from Financial Documents</h2>
+<h2 id="keynote">Keynote: Rich Text, Lean Knowledge Bases: Knowledge Extraction from Financial Documents</h2>
 
 Knowledge extraction in the financial domain needs to deal with a large variety of documents. Each of these documents contains critical, often legally binding information. One could almost claim that the financial industry does actually not run on numbers, but on documents! The language in the financial domain comes with extra dimensions that knowledge extraction methods need to cope with (and should benefit from): long documents with hundreds of pages, containing deeply nested structure with many visual cues, dense intra- and inter-document links, and with frequent edits and updates. The first step of extracting knowledge is often the identification of legal entities and concepts, which crucially depends on the type of the document and the kind of knowledge to be extracted and requires highly flexible entity linking methods. The presentation will show initial results of knowledge extraction from finance-related documents, as well as open research questions, highlighting the extra dimensions of financial document types and shortcomings of many current entity linking methods.
