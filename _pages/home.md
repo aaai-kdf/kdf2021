@@ -48,7 +48,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
         <tr>
             <td>AAAI-21 Early Registration Deadline</td>
             <td>Friday</td>
-            <td>Jan 15, 2021</td>
+            <td><s>Jan 15, 2021</s></td>
         </tr>             
         <tr>
             <td>Workshop</td>
