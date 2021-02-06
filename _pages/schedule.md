@@ -113,7 +113,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">3:30pm-4:15pm</td>
-        <td markdown="span">Keynote</td>
+        <td markdown="span">[Keynote: Knowledge Extraction from Unstructured Scientific Text](/kdf2021/hannaneh#keynote)</td>
         <td markdown="span">[Hannaneh Hajishirzi](/kdf2021/hannaneh)<br/>(Assistant Professor, University of Washington)</td>
     </tr>
     <tr>
