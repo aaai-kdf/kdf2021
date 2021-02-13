@@ -37,13 +37,13 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">8:50am-9:00am</td>
         <td markdown="span">Opening remarks</td>
         <td markdown="span">&nbsp;</td>
-        <td markdown="span">(Video)[https://www.youtube.com/watch?v=PlVkXCdEaME]</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=PlVkXCdEaME)</td>
     </tr>
     <tr>
         <td markdown="span">9:00am-9:15am</td>
         <td markdown="span">[Knowledge discovery with Deep RL for selecting financial hedges](assets/pdfs/KDF_21_paper_11.pdf)</td>
         <td markdown="span">Eric Benhamou<br/>(AI Square Connect)</td>
-        <td markdown="span">(Video)[https://www.youtube.com/watch?v=u3Uq_AKtefk]</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=u3Uq_AKtefk)</td>
     </tr> 
     <tr>
         <td markdown="span">9:15am-9:30am</td>
@@ -103,7 +103,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">1:30pm-2:15pm</td>
         <td markdown="span">[Keynote: Information in Context: Financial Conversations and News Flows](/kdf2021/gideon#keynote)</td>
         <td markdown="span">[Gideon Mann](/kdf2021/gideon)<br/>(Head of Data Science, Bloomberg)</td>
-        <td markdown="span">(Video)[https://www.youtube.com/watch?v=5ADfaM9K3A0]</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=5ADfaM9K3A0)</td>
     </tr>  
     <tr>
         <td markdown="span">2:15pm-2:30pm</td>
@@ -115,7 +115,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">2:30pm-2:45pm</td>
         <td markdown="span">[Data Augmentation Methods for Reject Inference in Credit Risk Models](assets/pdfs/KDF_21_paper_4.pdf)</td>
         <td markdown="span">Jingxian Liao<br/>(Intuit AI)</td> 
-        <td markdown="span">(video)[https://www.youtube.com/watch?v=s0FZX3Oc7Ew]</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=s0FZX3Oc7Ew)</td>
     </tr> 
     <tr>
         <td markdown="span">2:45pm-3:00pm</td>
@@ -133,7 +133,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">3:30pm-4:15pm</td>
         <td markdown="span">[Keynote: Knowledge Extraction from Unstructured Scientific Text](/kdf2021/hannaneh#keynote)</td>
         <td markdown="span">[Hannaneh Hajishirzi](/kdf2021/hannaneh)<br/>(Assistant Professor, University of Washington)</td>
-        <td markdown="span">(Video)[https://www.youtube.com/watch?v=1pkWFre3aAw]</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=1pkWFre3aAw)</td>
     </tr>
     <tr>
         <td markdown="span">4:15pm-4:30pm</td>
