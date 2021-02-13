@@ -37,19 +37,19 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">8:50am-9:00am</td>
         <td markdown="span">Opening remarks</td>
         <td markdown="span">&nbsp;</td>
-        <td markdown="span">[Video](https://www.youtube.com/watch?v=PlVkXCdEaME)</td>
+        <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">9:00am-9:15am</td>
         <td markdown="span">[Knowledge discovery with Deep RL for selecting financial hedges](assets/pdfs/KDF_21_paper_11.pdf)</td>
         <td markdown="span">Eric Benhamou<br/>(AI Square Connect)</td>
-        <td markdown="span">[Video](https://www.youtube.com/watch?v=u3Uq_AKtefk)</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=PlVkXCdEaME)</td>
     </tr> 
     <tr>
         <td markdown="span">9:15am-9:30am</td>
         <td markdown="span">[Boosting over Deep Learning for Earnings](assets/pdfs/KDF_21_paper_7.pdf)</td>
         <td markdown="span">Stephen Choi<br/>(LORA Technologies)</td>
-        <td markdown="span">&nbsp;</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=u3Uq_AKtefk)</td>
     </tr>   
     <tr>
         <td markdown="span">9:30am-9:45am</td>
