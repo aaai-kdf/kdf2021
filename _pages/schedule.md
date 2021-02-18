@@ -42,7 +42,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">9:00am-9:15am</td>
         <td markdown="span">[Knowledge discovery with Deep RL for selecting financial hedges](assets/pdfs/KDF_21_paper_11.pdf)</td>
-        <td markdown="span">Eric Benhamou<br/>(AI Square Connect)</td>
+        <td markdown="span">Eric Benhamou<br/>(Ai For Alpha)</td>
         <td markdown="span">[Video](https://www.youtube.com/watch?v=PlVkXCdEaME)</td>
     </tr> 
     <tr>
