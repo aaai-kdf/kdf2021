@@ -61,7 +61,7 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">9:45am-10:30am</td>
         <td markdown="span">[Keynote: Rich text, lean knowledge bases: Knowledge extraction from financial documents](/kdf2021/hoffart#keynote)</td>
         <td markdown="span">[Johannes Hoffart](/kdf2021/hoffart)<br/>(Senior Research Scientist, Goldman Sachs)</td>
-        <td markdown="span">&nbsp;</td>
+        <td markdown="span">[Video](https://www.youtube.com/watch?v=zsfT-rzCyXQ)</td>
     </tr> 
     <tr bgcolor="#f7f1df">
         <td markdown="span">10:30am-11:00am</td>
